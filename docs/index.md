@@ -1,4 +1,3 @@
-#Hello
 Freddy's site
 * item
 * item
