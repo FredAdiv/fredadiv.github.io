@@ -5,6 +5,6 @@ You're invited to check my [LinkedIn profile](https://www.linkedin.com/in/freddy
 
 
 Some of my point of interest:
-*[My digital career page](https://paths.careers)
-*[OSDC](https://osdc.code-maven.com)
+* [My digital career page](https://paths.careers)
+* [OSDC](https://osdc.code-maven.com)
 
